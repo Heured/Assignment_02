@@ -282,5 +282,5 @@ The match scores is:
   0.000e+00 0.000e+00 0.000e+00 0.000e+00 0.000e+00 0.000e+00 0.000e+00
   0.000e+00 1.484e+03]]
   ```
-  
+  ![emmmm](https://github.com/Heured/Assignment_02/blob/master/imgToShow/zhongShanJNG.png)
 
