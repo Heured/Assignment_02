@@ -63,6 +63,10 @@ show()
   
 ![emmmm](https://github.com/Heured/Assignment_02/blob/master/imgToShow/sift_match_proceed_1.JPG)
   
+  
+解决办法：尝试sift.py文件里vlfeat路径的\统统要改/，运行不报错了(ps:在此环境下只能用win32的vlfeat，win64的只会生成空的.txt文件)
+  
+  
 结果：  
 ![emmmm](https://github.com/Heured/Assignment_02/blob/master/imgToShow/sift_match_done_2.JPG)
 ![emmmm](https://github.com/Heured/Assignment_02/blob/master/imgToShow/sift_match_done_1.JPG)
