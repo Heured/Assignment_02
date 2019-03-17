@@ -3,12 +3,16 @@
 ps:vlfeat安装参考:[这里](http://yongyuan.name/pcvwithpython/installation.html)
 ## SIFT特征原理
 [参考:SIFT特征详解](https://www.cnblogs.com/wangguchangqing/p/4853263.html)
-
+  
+  
+  
 ## SIFT特征匹配比较Harris特征匹配
 原图：
   
 ![emmmm](https://github.com/Heured/Assignment_02/blob/master/data/P90317-103350-1.jpg)
 ![emmmm](https://github.com/Heured/Assignment_02/blob/master/data/P90317-103353-1.jpg)
+  
+  
 ### SIFT特征匹配
   
 代码如下:  
@@ -75,6 +79,7 @@ cmmd = str("D:/pyCharm/pycharm_workspace/vlfeat/win32/sift.exe "+imagename+" --o
 ![emmmm](https://github.com/Heured/Assignment_02/blob/master/imgToShow/sift_match_done_2.JPG)
 ![emmmm](https://github.com/Heured/Assignment_02/blob/master/imgToShow/sift_match_done_1.JPG)
   
+  
 ### Harris特征匹配
 代码如下：  
 ```python
@@ -126,6 +131,8 @@ show()
   
   
 小结：sift运行速度比较快而且匹配更加准确
-
-## 地理标记
+  
+  
+  
+## 地理标记图像匹配
 
