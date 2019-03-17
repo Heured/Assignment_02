@@ -5,6 +5,10 @@ ps:vlfeat安装参考:[这里](http://yongyuan.name/pcvwithpython/installation.h
 [参考:SIFT特征详解](https://www.cnblogs.com/wangguchangqing/p/4853263.html)
 
 ## SIFT特征匹配比较Harris特征匹配
+原图：
+  
+![emmmm](https://github.com/Heured/Assignment_02/blob/master/data/P90317-103350-1.jpg)
+![emmmm](https://github.com/Heured/Assignment_02/blob/master/data/P90317-103353-1.jpg)
 ### SIFT特征匹配
   
 代码如下:  
