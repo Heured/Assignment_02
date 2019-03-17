@@ -28,14 +28,14 @@ else:
 im1 = array(Image.open(im1f))
 im2 = array(Image.open(im2f))
 
-#sift.process_image(im1f, 'out_sift_1.txt')
+sift.process_image(im1f, 'out_sift_1.txt')
 l1, d1 = sift.read_features_from_file('out_sift_1.txt')
 figure()
 gray()
 subplot(121)
 sift.plot_features(im1, l1, circle=False)
 
-#sift.process_image(im2f, 'out_sift_2.txt')
+sift.process_image(im2f, 'out_sift_2.txt')
 l2, d2 = sift.read_features_from_file('out_sift_2.txt')
 subplot(122)
 sift.plot_features(im2, l2, circle=False)
@@ -54,7 +54,10 @@ show()
 
 
 分析：百度无果，也许是vlfeat没有配置好
-暂时解决：  用cmd命令行运行
+  
+暂时解决：折腾了几个小时没弄好，只好先用cmd命令行运行生成out_sift_1.txt和out_sift_2.txt文件，然后把sift.process_image加上注释，日后再想办法
+  
+
 
 
 结果：  
