@@ -51,17 +51,17 @@ show()
 ```
   
 遇到问题：  
-
-
+![emmmm](https://github.com/Heured/Assignment_02/blob/master/imgToShow/sift_match_error_1.JPG)
+  
 分析：百度无果，也许是vlfeat没有配置好
   
 暂时解决：折腾了几个小时没弄好，只好先用cmd命令行运行生成out_sift_1.txt和out_sift_2.txt文件，然后把sift.process_image加上注释，日后再想办法
   
-
-
-
+![emmmm](https://github.com/Heured/Assignment_02/blob/master/imgToShow/sift_match_proceed_1.JPG)
+  
 结果：  
-
+![emmmm](https://github.com/Heured/Assignment_02/blob/master/imgToShow/sift_match_done_2.JPG)
+![emmmm](https://github.com/Heured/Assignment_02/blob/master/imgToShow/sift_match_done_1.JPG)
   
 ### Harris特征匹配
 代码如下：  
