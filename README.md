@@ -135,6 +135,15 @@ show()
   
   
 ## 地理标记图像匹配
+PS:
+  
+需要安装Graphviz，并且要配置环境变量)[下载页面](https://graphviz.gitlab.io/_pages/Download/Download_windows.html
+  
+配置环境变量：安装好后根目录下的bin文件夹路径复制到Path中
+  
+还需要安装graphviz模块和pydot-ng模块，先安装graphviz后安装pydot-ng，用conda或者pip安装
+  
+  
 代码如下：
 ```python
 # -*- coding: utf-8 -*-
