@@ -1,5 +1,5 @@
 # Assignment_02
-PS：运行环境python2.7
+PS：运行环境python2.7(python3也行)
   
   
 vlfeat安装参考:[这里](http://yongyuan.name/pcvwithpython/installation.html)
