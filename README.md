@@ -210,3 +210,7 @@ g.write_png('zhongShanJNG.png')
 遇到问题:
   
 ![emmmm](https://github.com/Heured/Assignment_02/blob/master/imgToShow/site_match_error_1.JPG)
+  
+  
+分析：
+解决办法：
